@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Utkarsh+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
