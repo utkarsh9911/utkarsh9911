@@ -94,20 +94,9 @@
   <a href="https://spacy.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/SpaCy-%23FF6F00.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy"  />
   </a>
-
-
-
-
-
-
-
-
-
-  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh9911&show_icons=true&locale=en&layout=compact" alt="utkarsh9911" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh9911&show_icons=true&locale=en" alt="utkarsh9911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh9911&" alt="utkarsh9911" /></p>
+
