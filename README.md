@@ -7,19 +7,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh9911&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh9911" /> </p>
 
 - 📫 How to reach me **utkarshraj7217@gmail.com**
+- 🌏 See my portfolio [utkarsh9911](https://datascienceportfolio.odoo.com/)
 
 - ⚡ Fun fact **I am funny**
+  
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/utkarsh9911" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh" height="30" width="40" />
   </a>
+  <a href="https://x.com/Utkarsh30466378" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="utkarsh" height="30" width="40" />
+  </a>
 </p>
 
+<br>
 
-
-<h3 align="left">💻 Languages and Tools:</h3>
+# 💻 Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
