@@ -37,6 +37,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </a>
@@ -52,6 +53,51 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffca28?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  </a>
+    <a href="https://www.kerastoolkit.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"  />
+  </a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"  />
+  </a>
+  
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"  />
+  </a>
+    <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"  />
+  </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"  />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"  />
+  </a>
+
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MLOps-%2300f.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps"  />
+  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NLTK-%23013243.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"  />
+  </a>
+  <a href="https://spacy.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SpaCy-%23FF6F00.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy"  />
+  </a>
+
+
+
+
+
+
+
+
+
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh9911&show_icons=true&locale=en&layout=compact" alt="utkarsh9911" /></p>
