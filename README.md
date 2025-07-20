@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh9911&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh9911" /> </p>
 
 - 📫 How to reach me **utkarshraj7217@gmail.com**
-- 🌏 See my portfolio [utkarsh9911](https://datascienceportfolio.odoo.com/)
+- 🌏 See my portfolio
 
 - ⚡ Fun fact **I am funny**
   
